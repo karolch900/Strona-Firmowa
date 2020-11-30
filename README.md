@@ -2,7 +2,7 @@
 1. Strona firmy zajmującej się produkcją materiałów wideo
 2. Autorzy: Karol Chojowski
 3. Opis strony:
-      Portal mający na celu rozpropagowanie firmy. Na stronie znajdować się będzie portfolio, wykaz świadczonych usług oraz formularz kontaktowy.
+      Portal mający na celu rozpropagowanie firmy. Na stronie znajdować się będzie portfolio, wykaz świadczonych usług, formularz wyceny oraz formularz kontaktowy.
 4. TO DO:
       a. stworzenie struktury katalogów;
       b. synchronizacja ze zdalnym repozytrium git;
@@ -13,6 +13,7 @@
       a. możliwość obejrzenia usług świadczonych przez firmę;
       b. możliwość obejrzenia portfolio;
       c. możliwość kontaktu z pracownikiem firmy poprzez formularz; 
+      d. możliwość wyceny poprzez formularz;
 7. Instalacja
       Rozpakować folder
 8. Struktura Katalogu
